@@ -27,5 +27,5 @@ Temporary Items
 
 # IntelliJ files
 /*.iml
-/.idea/
-/out/
+/.idea
+/out
